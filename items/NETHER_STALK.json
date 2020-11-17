@@ -9,10 +9,5 @@
   ],
   "internalname": "NETHER_STALK",
   "clickcommand": "",
-  "modver": "1.5-REL",
-  "crafttext": "",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart"
-  ]
+  "modver": "1.0.0"
 }

@@ -32,10 +32,5 @@
   },
   "internalname": "PLASMAFLUX_POWER_ORB",
   "clickcommand": "viewrecipe",
-  "modver": "1.5-REL",
-  "crafttext": "",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Plasmaflux_Power_Orb"
-  ]
+  "modver": "1.4-REL"
 }
