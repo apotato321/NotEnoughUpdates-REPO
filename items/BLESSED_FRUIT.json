@@ -19,9 +19,6 @@
   "internalname": "BLESSED_FRUIT",
   "crafttext": "",
   "clickcommand": "",
-  "modver": "1.5-REL",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Blessed_Fruit"
-  ]
+  "modver": "1.4-REL",
+  "infoType": ""
 }

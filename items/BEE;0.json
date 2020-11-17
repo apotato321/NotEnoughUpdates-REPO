@@ -24,9 +24,6 @@
   "internalname": "BEE;0",
   "crafttext": "",
   "clickcommand": "",
-  "modver": "1.5-REL",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Bee_Pet"
-  ]
+  "modver": "REL-1.0.0",
+  "infoType": ""
 }

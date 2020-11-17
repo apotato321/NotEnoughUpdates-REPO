@@ -1,4 +1,3 @@
 {
-	"auctions": true,
-	"auctions_new": false
+	"auctions": false
 }

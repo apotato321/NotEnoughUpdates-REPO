@@ -1,17 +1,12 @@
 {
   "internalname": "DUNGEON_LORE_PAPER",
-  "itemid": "minecraft:paper",
+  "itemid": 339,
   "displayname": "§9Journal Entry",
   "clickcommand": "",
   "damage": 0,
   "nbttag": "{HideFlags:254,display:{Lore:[0:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Journal Entry\"},ExtraAttributes:{id:\"DUNGEON_LORE_PAPER\"}}",
-  "modver": "1.5-REL",
+  "modver": "1.0.0",
   "lore": [
     "§9§lRARE DUNGEON ITEM"
-  ],
-  "crafttext": "",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Journal_Entry"
   ]
 }

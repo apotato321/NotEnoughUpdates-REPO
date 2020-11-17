@@ -29,9 +29,6 @@
   "internalname": "ROCK;2",
   "crafttext": "",
   "clickcommand": "",
-  "modver": "1.5-REL",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet"
-  ]
+  "modver": "REL-1.0.0",
+  "infoType": ""
 }
